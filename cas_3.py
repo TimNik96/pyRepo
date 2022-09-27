@@ -51,6 +51,27 @@
 # for i in tekst:
 #     print(i, end=' ')
 
+# -Napisati program koji proverava da li je uneti broj prost
+
+# broj = eval(input("Unesite broj koji zelite da proverite da li je prost: "))
+# prost = True
+# from math import sqrt
+
+# for i in range(2, round(sqrt(broj))):
+#     if broj <= 0:
+#         print("Uneli ste broj koji nije prirodan")
+#         break
+#     if broj == 1:
+#         print("Uneti broj je prost")
+#         break
+#     if broj % i == 0:
+#         print("Uneti broj nije prost")
+#         prost = False
+#         break
+
+# if prost: 
+#     print("Broj koji ste uneli je prost!")
+
 #IMPORTI
 
 # from math import pow
