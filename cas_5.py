@@ -1,0 +1,23 @@
+s = 'python'
+
+# print(s[:])
+# print(s[1:4])
+# print(s[:4])
+# print(s[4:])
+# print(s[-2:])
+# print(s[::2])
+# print(s[::-1])
+
+# print(s.capitalize())
+# print(s.lower())
+# print(s.upper())
+# print(s.title())
+# print(s.count('y'))
+# print(s.find('y'))
+# print(s.replace('o', 'a'))
+# print(s.swapcase())
+# print(s.format())
+# print(s.isalpha())
+# print(s.isalnum())
+# print(s.isdigit())
+# print(s.split())

@@ -26,7 +26,7 @@
 
 # -Napisati program koji iscrtava trougao za unetu visinu.
 
-n = eval(input("Uneti visinu trougla: "))
+# n = eval(input("Uneti visinu trougla: "))
 
-for i in range(1, n+1):
-    print("*" * i)
+# for i in range(1, n+1):
+#     print("*" * i)
